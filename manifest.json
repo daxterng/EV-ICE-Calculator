@@ -1,0 +1,18 @@
+{
+  "name": "EV Rechner – Ford Explorer PHEV",
+  "short_name": "EV Rechner",
+  "description": "Stromkosten vs. Kraftstoff Kalkulator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#003478",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
